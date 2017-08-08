@@ -1,3 +1,8 @@
+/*
+This source code is a modified version of Tamaki Shingo's irmagician library.
+https://github.com/tamaki-shingo/irmagician
+*/
+
 require("colors")
 const co = require("co")
 const deviceInfo = {
